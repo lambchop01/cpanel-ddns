@@ -1,3 +1,5 @@
+updating an A record in a cpanel dns zone editor via a dyndns client
+
 copy config.php and update.php and .htaccess into ./nic in a subdomain created to host the update files. eg. ddns.example.ca
 
 update config.php with your username/pass.  cpServer is the url you use to access cpanel. port is usually 2083
