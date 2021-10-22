@@ -17,10 +17,10 @@ my config file looks like this
 daemon=3600
 use=web, web=checkip.dyndns.com/, web-skip='Current IP Address: '
 protocol=dyndns2
-server=dadsddns.lambspork.ca
-login=lamb6797
-password='mabkk21'
-dadshome.lambspork.ca
+server=ddns.example.ca
+login=user
+password='pass'
+server.example.ca
 
 ```
 run `sudo ddclient -daemon=0 -debug -verbose -noquiet` to check
